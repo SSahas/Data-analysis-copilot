@@ -1,0 +1,9 @@
+streamlit==1.42.2
+transformers==4.38.1
+torch==2.2.0
+pandas==2.2.0
+sqlite3==3.35.0
+bitsandbytes==0.45.3
+accelerate==0.27.2
+optimum==1.16.1
+dotenv==0.9.9

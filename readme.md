@@ -57,7 +57,6 @@ data-analysis-copilot/
 
 
 
+# Improvements
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+1. Add an intent classification layer to know if the user input needs code generation to perform the data analysis or only querying the database. Adding this layer reduces the execution time and also reduces the resources used.

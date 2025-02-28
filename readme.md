@@ -46,34 +46,17 @@ streamlit run src/app.py
 
 ```
 data-analysis-copilot/
-├── src/                    # Source code
-│   ├── app.py             # Streamlit application
-│   ├── config.py          # Configuration settings
-│   ├── core/              # Core functionality
-│   ├── services/          # Business logic services
-│   └── utils/             # Utility functions
-├── tests/                 # Test files
+├── src/                    # Source code             
+├── core/              # Core functionality
+├── services/          # Business logic services
+|── utils/             # Utility functions
 ├── requirements.txt       # Project dependencies
 └── README.md             # Project documentation
 ```
 
-## Dependencies
 
-- Python 3.8+
-- Streamlit
-- Transformers
-- PyTorch
-- Pandas
-- SQLite3
-- Other dependencies listed in requirements.txt
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
 
 ## License
 
